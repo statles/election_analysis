@@ -9,11 +9,11 @@ The following tasks were given by a Colorado Board of Elections employee. These 
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-##Resources
+## Resources
 - Data source: election_results.csv
 - Software: Python 3.10.1, Visual Studio Code, 1.63.2
 
-##Summary
+## Summary
 The analysis of the eleciton show that:
 -There were 369,711 votes cast in the elction
 -The candidates were:
