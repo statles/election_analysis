@@ -27,15 +27,24 @@ The analysis of the eleciton show that:
 
 ## Challenge Overview
 
-Overview of Election Audit: Explain the purpose of this election audit analysis.
+# Overview of Election Audit: Explain the purpose of this election audit analysis.
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+# Election-Audit Results:
 
 - How many votes were cast in this congressional election?
+  - 369,711 votes were cast in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - Jefferson County: votes, percent
+  - Arapahoe County: votes, percent
+  - Denver County: votes, percent
 - Which county had the largest number of votes?
+  - County had the largest number of votes
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - Charles Casper Stockham received 23.0% of the vote and 85213 total number of votes.
+  - Diana DeGette received 73.8% of the vote and 272892 total number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11606 total number of votes.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  - Diana DeGette won the election with 272,892 total votes, which was 73.8% of the total vote.
 
 ## Challenge Summary
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
