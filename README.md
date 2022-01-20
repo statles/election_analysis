@@ -28,6 +28,8 @@ The analysis of the eleciton show that:
 ## Challenge Overview
 
 # Overview of Election Audit: Explain the purpose of this election audit analysis.
+The purpose of this analysis of the election audit is to calculate total votes, who received votes, and how many votes that person received. In addition, total votes by county were also calculated. This analysis allows us to see who won the election and by what percentage of the total vote.
+
 
 # Election-Audit Results:
 
