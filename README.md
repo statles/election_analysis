@@ -27,18 +27,18 @@ The analysis of the eleciton show that:
 
 ## Challenge Overview
 
-# Overview of Election Audit: Explain the purpose of this election audit analysis.
+# Overview of Election Audit
 The purpose of this analysis of the election audit is to calculate total votes, who received votes, and how many votes that person received. In addition, total votes by county were also calculated. This analysis allows us to see who won the election and by what percentage of the total vote.
 
 
-# Election-Audit Results:
+# Election-Audit Results
 
 - How many votes were cast in this congressional election?
   - 369,711 votes were cast in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  - Jefferson County: votes, percent
-  - Arapahoe County: votes, percent
-  - Denver County: votes, percent
+  - Jefferson County recorded 38,855 votes, which was 10.5% of the total votes.
+  - Arapahoe County recorded 306,05 votes, which was 82.8% of the total votes.
+  - Denver County recorded 24,801 votes, which was 6.7% of the total vote.
 - Which county had the largest number of votes?
   - County had the largest number of votes
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
